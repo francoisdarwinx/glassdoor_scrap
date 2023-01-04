@@ -1,0 +1,26 @@
+{
+  "name": "glassdoor_scrap",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "npx ts-node src/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francoisdarwinx/glassdoor_scrap.git"
+  },
+  "author": "Bunny Bunbun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francoisdarwinx/glassdoor_scrap/issues"
+  },
+  "homepage": "https://github.com/francoisdarwinx/glassdoor_scrap#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "puppeteer": "^19.4.1"
+  },
+  "devDependencies": {
+    "tslib": "^2.4.1"
+  }
+}

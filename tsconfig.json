@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "es6", "dom", "dom.iterable"
+        ],
+        "target": "esnext",
+        "downlevelIteration": true,
+        "importHelpers": true,
+        "moduleResolution": "node",
+    }
+}
